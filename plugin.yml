@@ -1,0 +1,7 @@
+name: MsBuff
+version: 1.4
+author: yurirp4
+main: buff.Main
+Description: MsBuff Mais Um Plugin Da Linha MsPlugins
+commands:
+  buff:

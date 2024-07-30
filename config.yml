@@ -1,0 +1,56 @@
+﻿ #############################
+ # Permissao: buff.vip       #
+ # comandos : /buff          #     
+ # Criador: yurirp4          #
+ # Skype: Filipe Silva amy   #
+ # version: 1.4              #
+ # plugin 100% Editavel      #
+ #############################
+ 
+ #Canal do Criador: https://www.youtube.com/channel/UCpAddeks1LObI281qvD3jNw
+ 
+
+Tempo: 60
+#Colocar o tempo em Segundos
+#Tempo para Membros
+
+ 
+Tempo_Vip: 120
+#Tempo de duração do efeito para vips
+#Colocar em Segundos    
+
+Lore: 
+- '&cPreço: 5000'
+- '&bEfeito: Hast'
+- '&bDuração: 1 Minuto'
+#aqui vai ser a Descrição Do Buff para players!
+
+LoreVip:
+- '&cPreço: 6000'
+- '&bEfeito: Hast'
+- '&bDuração: 2 Minuto'
+#aqui vai ser a Descrição Do Buff Vip!
+
+preco: 5000
+#Valor parar os membros usarem o buff normal!
+
+preco_vip: 6000
+#valor para os vips usarem o buff !
+
+Sucesso: '&aBuff Comprado Com Sucesso!'
+#msg ao Player comprar o Buff!
+
+Sucesso_vip: '&bBuff_Vip Comprado Com Sucesso!'
+#msg ao Vip Comprar o Buffvip!
+
+SemPermission: '&cVocê não tem Permissão'
+#Aqui e Quando O Jogador não for Vip!
+
+SemMoney: '&cVocê não tem Money Suficiente!' 
+#quando Os Jogadores não tiverem Money para comprar os buffs
+
+Menu-Aberto: '&aMenu de Buff Aberto!' 
+#quando os jogadores usarem /buff
+
+Som-Menu: true
+#Deixe true pra quando o jogador usar /buff fazer um som ou false para desligar o som !
