@@ -14,6 +14,7 @@ Esses são os comandos disponibilizados pelo plugin
 - /buff
 
 ## 🔒 Permissões
+- buff.vip
 
 ## 🚀 Demonstração
 Video demonstrativo criado em 19 de out. de 2017
