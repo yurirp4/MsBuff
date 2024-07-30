@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 <h1 align="center">Ms Buff</h1>
 
 <div align="center">
